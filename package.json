@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "\"test\"",
+  "main": "devDependencies\": {",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dock70/test1.git"
+  },
+  "keywords": [
+    "test",
+    "grunt"
+  ],
+  "author": "ruben costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dock70/test1/issues"
+  },
+  "homepage": "https://github.com/dock70/test1#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
